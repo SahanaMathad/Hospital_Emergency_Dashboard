@@ -47,11 +47,15 @@ Through this project, I learned to:
 ## 📂 Project Structure
 Hospital_Emergency_Dashboard
 │
+
 │ ├── hospital_queries.sql
-│
+
+
 │ ├── Hospital.rdl
 │
+
 │ ├── Incident_report_1.png
+
 
 │ └──Incident_report_2.png
 
