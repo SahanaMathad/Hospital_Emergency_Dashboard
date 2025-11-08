@@ -45,21 +45,12 @@ Through this project, I learned to:
 ---
 
 ## 📂 Project Structure
-Hospital_Emergency_Dashboard/
+Hospital_Emergency_Dashboard
 │
-
-├── SQL_Scripts/
-
 │ ├── hospital_queries.sql
 │
-
-├── Reports/
-
 │ ├── Hospital.rdl
 │
-
-├── Screenshots/
-
 │ ├── Incident_report_1.png
 
 │ └──Incident_report_2.png
@@ -71,9 +62,9 @@ Hospital_Emergency_Dashboard/
 
 ## 🖼 Dashboard Preview
 
-![Hospital Emergency Dashboard](Screenshots/Incident_report_1.PNG)
+![Hospital Emergency Dashboard](Incident_report_1.PNG)
 
-![Hospital Emergency Dashboard](Screenshots/Incident_report_2.PNG)
+![Hospital Emergency Dashboard](Incident_report_2.PNG)
 ---
 
 ## 🏁 How to Run
