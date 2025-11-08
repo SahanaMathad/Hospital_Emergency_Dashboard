@@ -1,7 +1,7 @@
 # Hospital_Emergency_Dashboard
 A data visualization project built using SSMS and SSRS to analyze hospital emergency incidents and capacity utilization.
 
-# 🏥 Hospital Emergency Incident Dashboard
+#  Hospital Emergency Incident Dashboard
 
 ### Transforming Hospital Data into Life-Saving Insights 🚑
 
@@ -25,7 +25,7 @@ By combining **data extraction, transformation, and visualization**, this dashbo
 
 ---
 
-## 📈 Key Features
+##  Key Features
 
 - **Dynamic Visualization:** Interactive SSRS line charts showing hospital-wise incident counts.  
 - **Automated Reporting:** Reports built using query-based datasets from SSMS.  
@@ -34,7 +34,7 @@ By combining **data extraction, transformation, and visualization**, this dashbo
 
 ---
 
-## 🧠 Learning Experience
+##  Learning Experience
 
 Through this project, I learned to:
 - Integrate **SSMS queries with SSRS datasets** to generate real-time insights.  
@@ -44,7 +44,7 @@ Through this project, I learned to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Hospital_Emergency_Dashboard
 │
 
@@ -64,14 +64,14 @@ Hospital_Emergency_Dashboard
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ![Hospital Emergency Dashboard](Incident_report_1.PNG)
 
 ![Hospital Emergency Dashboard](Incident_report_2.PNG)
 ---
 
-## 🏁 How to Run
+##  How to Run
 
 1. Open the `.sql` files in **SQL Server Management Studio** and execute them to set up your database.  
 2. Open the `.rdl` report in **SQL Server Report Builder** or **Visual Studio** with SSRS extensions.  
@@ -80,7 +80,7 @@ Hospital_Emergency_Dashboard
 
 ---
 
-## 📢 Future Enhancements
+##  Future Enhancements
 
 - Add time-series trend analysis for emergency admissions.  
 - Include filters for region and department.  
@@ -88,16 +88,16 @@ Hospital_Emergency_Dashboard
 
 ---
 
-## ✨ Author
+##  Author
 
 **Sahana Mathad**  
-📍 MCA Graduate | Aspiring Data Analyst  
+    MCA Graduate | Aspiring Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 💻 [GitHub](https://github.com/your-username)
 
 ---
 
-## 🪪 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
