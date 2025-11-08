@@ -49,6 +49,7 @@ Hospital_Emergency_Dashboard/
 │
 
 ├── SQL_Scripts/
+
 │ ├── hospital_queries.sql
 │
 
