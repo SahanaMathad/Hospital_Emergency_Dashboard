@@ -52,7 +52,7 @@ Hospital_Emergency_Dashboard
 
 
 │ ├── Hospital.rdl
-│
+
 
 │ ├── Incident_report_1.png
 
