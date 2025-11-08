@@ -47,15 +47,22 @@ Through this project, I learned to:
 ## 📂 Project Structure
 Hospital_Emergency_Dashboard/
 │
+
 ├── SQL_Scripts/
 │ ├── hospital_queries.sql
 │
+
 ├── Reports/
+
 │ ├── Hospital.rdl
 │
+
 ├── Screenshots/
+
 │ ├── Incident_report_1.png
+
 │ └──Incident_report_2.png
+
 └── README.md
 
 
